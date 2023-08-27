@@ -343,7 +343,7 @@
         },
         {
             "chainId": 109,
-            "address": "0xA4029b74FBA366c926eDFA7Dd10B21C621170a4c",
+            "address": "0x26cB8660EeFCB2F7652e7796ed713c9fB8373f8e",
             "decimals": 18,
             "name": "Wrapped BONE",
             "symbol": "WBONE",
