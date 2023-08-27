@@ -14,7 +14,7 @@
     },
     "tokens": [
         {
-            "chainId": 2000,
+            "chainId": 109,
             "address": "0xA4029b74FBA366c926eDFA7Dd10B21C621170a4c",
             "decimals": 18,
             "name": "Wrapped BONE",
@@ -22,7 +22,7 @@
             "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/wbone.png"
         },
         {
-            "chainId": 2000,
+            "chainId": 109,
             "address": "0x9B805f3FacA05C505C84D82D46121A861587C37B",
             "decimals": 18,
             "name": "EndlessWebWorlds Test",
@@ -30,7 +30,7 @@
             "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/eww.png"
         },
         {
-            "chainId": 2000,
+            "chainId": 109,
             "address": "0x495eea66B0f8b636D441dC6a98d8F5C3D455C4c0",
             "decimals": 18,
             "name": "Shiba Inu",
