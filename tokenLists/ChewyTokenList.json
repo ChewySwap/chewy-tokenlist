@@ -19,7 +19,13 @@
             "decimals": 18,
             "name": "DogeShrek",
             "symbol": "DogeShrek",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogeShrek.png"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogeShrek.png",
+            "extensions": {
+                "slippage": 0.5,
+                "website": "https://dogeshrek.com",
+                "telegram": "https://t.me/DogeshrekChat",
+                "twitter": "https://twitter.com/Dogeshrek"
+            }
         },
         {
             "chainId": 2000,
@@ -355,7 +361,13 @@
             "decimals": 18,
             "name": "EndlessWebWorlds Test",
             "symbol": "EWWTEST",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/eww.png"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/eww.png",
+            "extensions": {
+                "slippage": 0.5,
+                "website": "https://dogeshrek.com",
+                "telegram": "https://t.me/DogeshrekChat",
+                "twitter": "https://twitter.com/Dogeshrek"
+            }
         }
     ],
     "timestamp": "2023-08-27T12:01:00+00:00"
