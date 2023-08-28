@@ -175,7 +175,7 @@
             "decimals": 18,
             "name": "DogeCorn",
             "symbol": "DogeCorn",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogecorn.png"
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogecorn.png",
             "tags": [
                 "dogeshrek"
             ],
