@@ -8,18 +8,18 @@
         "bridge"
     ],
     "tags": {
-    "stablecoin": {
-      "name": "Stablecoin",
-      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+        "stablecoin": {
+            "name": "Stablecoin",
+            "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+        },
+        "ecosystem": {
+            "name": "ChewySwap Ecosystem",
+            "description": "ChewySwap Ecosystem Tokens, Safu"
+        }
     },
-    "ecosystem": {
-      "name": "ChewySwap Ecosystem",
-      "description": "ChewySwap Ecosystem Tokens, Safu!"
-    }
-  },
     "version": {
         "major": 1,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "tokens": [
@@ -383,5 +383,5 @@
             }
         }
     ],
-    "timestamp": "2023-08-27T12:01:00+00:00"
+    "timestamp": "2023-08-27T12:05:00+00:00"
 }
