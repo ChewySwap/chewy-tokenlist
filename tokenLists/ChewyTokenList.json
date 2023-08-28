@@ -30,6 +30,9 @@
             "name": "DogeShrek",
             "symbol": "DogeShrek",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/dogeShrek.png",
+            "tags": [
+                "ecosystem"
+            ],
             "extensions": {
                 "slippage": 0.5,
                 "website": "https://dogeshrek.com",
