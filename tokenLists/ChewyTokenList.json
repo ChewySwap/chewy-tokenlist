@@ -7,6 +7,16 @@
         "BONE",
         "bridge"
     ],
+    "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "ecosystem": {
+      "name": "ChewySwap Ecosystem",
+      "description": "Tokens that are a part of the ChewySwap Ecosystem and very safu!"
+    }
+  },
     "version": {
         "major": 1,
         "minor": 2,
@@ -362,6 +372,9 @@
             "name": "EndlessWebWorlds Test",
             "symbol": "EWWTEST",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/eww.png",
+            "tags": [
+                "ecosystem"
+            ],
             "extensions": {
                 "slippage": 0.5,
                 "website": "https://dogeshrek.com",
