@@ -27,7 +27,7 @@
     },
     "version": {
         "major": 1,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
     "tokens": [
@@ -366,7 +366,7 @@
         },
         {
             "chainId": 109,
-            "address": "0x26cB8660EeFCB2F7652e7796ed713c9fB8373f8e",
+            "address": "0xC76F4c819D820369Fb2d7C1531aB3Bb18e6fE8d8",
             "decimals": 18,
             "name": "Wrapped BONE",
             "symbol": "WBONE",
@@ -393,5 +393,5 @@
             }
         }
     ],
-    "timestamp": "2023-08-27T12:06:00+00:00"
+    "timestamp": "2023-09-01T12:06:00+00:00"
 }
