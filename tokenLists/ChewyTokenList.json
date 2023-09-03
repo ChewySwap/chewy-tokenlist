@@ -27,7 +27,7 @@
     },
     "version": {
         "major": 1,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     },
     "tokens": [
@@ -374,24 +374,7 @@
             "tags": [
                 "safu"
             ]
-        },
-        {
-            "chainId": 109,
-            "address": "0x9B805f3FacA05C505C84D82D46121A861587C37B",
-            "decimals": 18,
-            "name": "EndlessWebWorlds Test",
-            "symbol": "EWWTEST",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/eww.png",
-            "tags": [
-                "ecosystem"
-            ],
-            "extensions": {
-                "slippage": 0.5,
-                "website": "https://dogeshrek.com",
-                "telegram": "https://t.me/DogeshrekChat",
-                "twitter": "https://twitter.com/Dogeshrek"
-            }
         }
     ],
-    "timestamp": "2023-09-01T12:06:00+00:00"
+    "timestamp": "2023-09-03T12:06:00+00:00"
 }
