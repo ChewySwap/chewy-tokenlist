@@ -31,7 +31,7 @@
     },
     "version": {
         "major": 1,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     },
     "tokens": [
@@ -385,11 +385,11 @@
             "decimals": 9,
             "name": "Pooshi",
             "symbol": "POOSHI",
-            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewyswap-tokenlist/main/tokens/pooshi.png",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/pooshi.png",
             "tags": [
                 "eco"
             ]
         }
     ],
-    "timestamp": "2023-09-04T12:06:00+00:00"
+    "timestamp": "2023-09-04T12:08:00+00:00"
 }
