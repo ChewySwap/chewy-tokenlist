@@ -31,8 +31,8 @@
     },
     "version": {
         "major": 1,
-        "minor": 10,
-        "patch": 1
+        "minor": 11,
+        "patch": 0
     },
     "tokens": [
         {
@@ -381,7 +381,7 @@
         },
         {
             "chainId": 109,
-            "address": "0x68f747Cd7f455afA7f8a550BABF6757bb63613d7",
+            "address": "0x5Bc161445f32170653eB61bdeCf80c9D7F5C345a",
             "decimals": 9,
             "name": "Pooshi",
             "symbol": "POOSHI",
