@@ -20,7 +20,7 @@ And we use the official Wrapped Bone smart contract deployed by the Shibarium te
 
 ## How to Submit your Token
 
-Create a commit in ./tokens/addresses creating a folder with your token's Shibarium contract address, in it containing your token's **transparent** background **logo.png** no larger than **250x250**! It's required that your token has enough liquidity on ChewySwap to be properly traded and that the project's main liquidity is **locked** for a reasonable period of time. * Minimum starting liquidity varies by project's current state and quality.
+Create a commit in ./tokens/addresses creating a folder with your token's Shibarium contract address, in it containing your token's **transparent** background **logo.png** no larger than **250x250**! It's required that your token has enough liquidity on ChewySwap to be properly traded and that the project's main liquidity is **locked** for a reasonable period of time. * Minimum starting liquidity varies by project's current state and quality. You may also submit your token logo and information to an admin in our [Telegram Group](https://t.me/chewyswapcommunity) but submitting to GitHub is preferred to keep everything in one place.
 
 New tokens will be added on a weekly basis as long as the project has a **safe** contract with its code **verified** on [Shibariumscan](https://www.shibariumscan.io). For faster consideration leave a link to your project's Telegram group or your admin's Telegram handle in the commit description. To expedite the process you may join our [Telegram Group](https://t.me/ChewySwapCommunity) and let us know you made a commit with your logo.
 
