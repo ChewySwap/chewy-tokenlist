@@ -31,7 +31,7 @@
     },
     "version": {
         "major": 1,
-        "minor": 11,
+        "minor": 12,
         "patch": 0
     },
     "tokens": [
@@ -396,8 +396,8 @@
             "decimals": 9,
             "name": "EndlessWebWorlds",
             "symbol": "EWW",
-            "logoURI": "https://github.com/ChewySwap/chewy-tokenlist/blob/3dcda5fec625e01ff3d4c6734a2cbfa277001bc7/tokens/eww.png?raw=true",
+            "logoURI": "https://github.com/ChewySwap/chewy-tokenlist/blob/3dcda5fec625e01ff3d4c6734a2cbfa277001bc7/tokens/eww.png?raw=true"
         }
     ],
-    "timestamp": "2023-09-04T12:20:00+00:00"
+    "timestamp": "2023-09-5:20:00+00:00"
 }
