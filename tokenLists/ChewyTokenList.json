@@ -389,14 +389,6 @@
             "tags": [
                 "eco"
             ]
-        },
-        {
-            "chainId": 109,
-            "address": "0x9D3E821ff67Cc010313E6CDBA159d5b6305e9431",
-            "decimals": 9,
-            "name": "EndlessWebWorlds",
-            "symbol": "EWW",
-            "logoURI": "https://github.com/ChewySwap/chewy-tokenlist/blob/3dcda5fec625e01ff3d4c6734a2cbfa277001bc7/tokens/eww.png?raw=true"
         }
     ],
     "timestamp": "2023-09-5:20:00+00:00"
