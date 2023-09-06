@@ -321,7 +321,7 @@
             "chainId": 109,
             "address": "0x5Bc161445f32170653eB61bdeCf80c9D7F5C345a",
             "decimals": 9,
-            "name": "Pooshi",
+            "name": "PooShi",
             "symbol": "POOSHI",
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/pooshi.png",
             "tags": [
@@ -353,6 +353,4 @@
             "logoURI": "https://github.com/ChewySwap/chewy-tokenlist/blob/main/tokens/boneshi.png?raw=true"
         }
     ],
-    "timestamp": "2023-09-06T12:31:00+00:00"
-
-}
+    "timestamp": "2023-09-06T12:35:00+00:00"
