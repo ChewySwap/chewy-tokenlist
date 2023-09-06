@@ -404,7 +404,7 @@
             "decimals": 18,
             "name": "Wrapped Ether",
             "symbol": "WETH",
-            "logoURI": "https://github.com/ChewySwap/chewy-tokenlist/blob/3dcda5fec625e01ff3d4c6734a2cbfa277001bc7/tokens/eth.png?raw=true"
+            "logoURI": "https://github.com/ChewySwap/chewy-tokenlist/blob/main/tokens/eth.png?raw=true"
         },
         {
             "chainId": 109,
@@ -412,7 +412,7 @@
             "decimals": 9,
             "name": "Boneshi",
             "symbol": "BONESHI",
-            "logoURI": "https://github.com/ChewySwap/chewy-tokenlist/blob/3dcda5fec625e01ff3d4c6734a2cbfa277001bc7/tokens/boneshi.png?raw=true"
+            "logoURI": "https://github.com/ChewySwap/chewy-tokenlist/blob/main/tokens/boneshi.png?raw=true"
         }
     ],
     "timestamp": "2023-09-06T12:31:00+00:00"
