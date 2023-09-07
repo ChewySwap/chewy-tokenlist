@@ -31,7 +31,7 @@
     },
     "version": {
         "major": 1,
-        "minor": 19,
+        "minor": 18,
         "patch": 0
     },
     "tokens": [
@@ -415,6 +415,6 @@
             "logoURI": "https://github.com/ChewySwap/chewy-tokenlist/blob/3dcda5fec625e01ff3d4c6734a2cbfa277001bc7/tokens/boneshi.png?raw=true"
         }
     ],
-    "timestamp": "2023-09-06T12:33:00+00:00"
+    "timestamp": "2023-09-06T12:31:00+00:00"
 
 }
