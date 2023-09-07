@@ -332,7 +332,7 @@
             "decimals": 9,
             "name": "EndlessWebWorlds",
             "symbol": "EWW",
-            "logoURI": "https://github.com/ChewySwap/chewy-tokenlist/blob/3dcda5fec625e01ff3d4c6734a2cbfa277001bc7/tokens/eww.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/eww.png"
         },
         {
             "chainId": 109,
@@ -340,7 +340,7 @@
             "decimals": 18,
             "name": "Wrapped Ether",
             "symbol": "WETH",
-            "logoURI": "https://github.com/ChewySwap/chewy-tokenlist/blob/3dcda5fec625e01ff3d4c6734a2cbfa277001bc7/tokens/eth.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/eth.png"
         },
         {
             "chainId": 109,
@@ -348,7 +348,7 @@
             "decimals": 9,
             "name": "Boneshi",
             "symbol": "BONESHI",
-            "logoURI": "https://github.com/ChewySwap/chewy-tokenlist/blob/3dcda5fec625e01ff3d4c6734a2cbfa277001bc7/tokens/boneshi.png?raw=true"
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/boneshi.png"
         }
     ],
     "timestamp": "2023-09-06T12:31:00+00:00"
