@@ -336,14 +336,6 @@
         },
         {
             "chainId": 109,
-            "address": "0x8ed7d143Ef452316Ab1123d28Ab302dC3b80d3ce",
-            "decimals": 18,
-            "name": "Wrapped Ether",
-            "symbol": "WETH",
-            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/eth.png"
-        },
-        {
-            "chainId": 109,
             "address": "0xd348D4f38f9f6710ae18580B161024D3C115F512",
             "decimals": 9,
             "name": "Boneshi",
