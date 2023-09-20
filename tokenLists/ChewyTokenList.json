@@ -27,6 +27,10 @@
         "eco": {
             "name": "Eco",
             "description": "ChewySwap Ecosystem Tokens"
+        },
+        "eco2": {
+            "name": "DEX",
+            "description": "DEX Token Launching Sept 20 7PM EST"
         }
     },
     "version": {
@@ -341,6 +345,17 @@
             "name": "Boneshi",
             "symbol": "BONESHI",
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/boneshi.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x2761723006d3Eb0d90B19B75654DbE543dcd974f",
+            "decimals": 18,
+            "name": "ChewySwap",
+            "symbol": "CHEWY",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/chewy.png",
+            "tags": [
+                "eco2"
+            ]
         }
     ],
     "timestamp": "2023-09-06T12:32:00+00:00"
