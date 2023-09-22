@@ -34,7 +34,7 @@
         },
         "meta": {
             "name": "Gaming",
-            "description": "Gaming + Metaverse Tokens"
+            "description": "Gaming, Metaverse Tokens"
         },
         "partner": {
             "name": "Partner",
@@ -43,7 +43,7 @@
     },
     "version": {
         "major": 1,
-        "minor": 21,
+        "minor": 22,
         "patch": 0
     },
     "tokens": [
@@ -372,6 +372,6 @@
             ]
         }
     ],
-    "timestamp": "2023-09-06T12:32:00+00:00"
+    "timestamp": "2023-09-22T12:32:00+00:00"
 
 }
