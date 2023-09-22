@@ -30,7 +30,7 @@
         },
         "eco2": {
             "name": "DEX",
-            "description": "ChewySwap Official DEX Token"
+            "description": "ChewySwap DEX Token"
         },
         "meta": {
             "name": "Gaming",
@@ -43,7 +43,7 @@
     },
     "version": {
         "major": 1,
-        "minor": 22,
+        "minor": 23,
         "patch": 0
     },
     "tokens": [
@@ -372,6 +372,6 @@
             ]
         }
     ],
-    "timestamp": "2023-09-22T12:32:00+00:00"
+    "timestamp": "2023-09-22T12:33:00+00:00"
 
 }
