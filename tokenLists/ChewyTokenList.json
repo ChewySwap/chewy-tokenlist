@@ -30,12 +30,20 @@
         },
         "eco2": {
             "name": "DEX",
-            "description": "DEX Token Launching Sept 20 7PM EST"
+            "description": "ChewySwap Official DEX Token!"
+        },
+        "meta": {
+            "name": "Gaming",
+            "description": "Gaming/Metaverse Tokens"
+        },
+        "partner": {
+            "name": "Partner",
+            "description": "Partner Project Tokens"
         }
     },
     "version": {
         "major": 1,
-        "minor": 19,
+        "minor": 20,
         "patch": 0
     },
     "tokens": [
@@ -336,7 +344,10 @@
             "decimals": 9,
             "name": "EndlessWebWorlds",
             "symbol": "EWW",
-            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/eww.png"
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/eww.png",
+            "tags": [
+                "meta"
+            ]
         },
         {
             "chainId": 109,
@@ -344,7 +355,10 @@
             "decimals": 9,
             "name": "Boneshi",
             "symbol": "BONESHI",
-            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/boneshi.png"
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/boneshi.png",
+            "tags": [
+                "partner"
+            ]
         },
         {
             "chainId": 109,
