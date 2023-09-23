@@ -43,7 +43,7 @@
     },
     "version": {
         "major": 1,
-        "minor": 23,
+        "minor": 24,
         "patch": 0
     },
     "tokens": [
@@ -370,8 +370,19 @@
             "tags": [
                 "eco2"
             ]
+        },
+        {
+            "chainId": 109,
+            "address": "0x8ed7d143Ef452316Ab1123d28Ab302dC3b80d3ce",
+            "decimals": 18,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/eth.png",
+            "tags": [
+                "Safu"
+            ]
         }
     ],
-    "timestamp": "2023-09-22T12:33:00+00:00"
+    "timestamp": "2023-09-23T12:33:00+00:00"
 
 }
