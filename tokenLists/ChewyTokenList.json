@@ -43,7 +43,7 @@
     },
     "version": {
         "major": 1,
-        "minor": 24,
+        "minor": 25,
         "patch": 0
     },
     "tokens": [
@@ -381,8 +381,19 @@
             "tags": [
                 "Safu"
             ]
+        },
+        {
+            "chainId": 109,
+            "address": "0xaB082b8ad96c7f47ED70ED971Ce2116469954cFB",
+            "decimals": 18,
+            "name": "Tether",
+            "symbol": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/usdt.png",
+            "tags": [
+                "Safu"
+            ]
         }
     ],
-    "timestamp": "2023-09-23T12:33:00+00:00"
+    "timestamp": "2023-09-24T12:33:00+00:00"
 
 }
