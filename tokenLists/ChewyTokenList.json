@@ -43,7 +43,7 @@
     },
     "version": {
         "major": 1,
-        "minor": 26,
+        "minor": 27,
         "patch": 0
     },
     "tokens": [
@@ -392,8 +392,16 @@
             "tags": [
                 "Safu"
             ]
+        },
+        {
+            "chainId": 109,
+            "address": "0x495eea66B0f8b636D441dC6a98d8F5C3D455C4c0",
+            "decimals": 18,
+            "name": "Shiba Inu",
+            "symbol": "SHIB",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/shib.png"
         }
     ],
-    "timestamp": "2023-09-25T12:33:00+00:00"
+    "timestamp": "2023-10-02T12:33:00+00:00"
 
 }
