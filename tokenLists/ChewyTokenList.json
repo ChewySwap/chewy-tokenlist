@@ -43,7 +43,7 @@
     },
     "version": {
         "major": 1,
-        "minor": 27,
+        "minor": 28,
         "patch": 0
     },
     "tokens": [
@@ -400,8 +400,16 @@
             "name": "Shiba Inu",
             "symbol": "SHIB",
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/shib.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0xD2e9e1a41E97912F3f966A3553E4C9Bb6861f0a6",
+            "decimals": 18,
+            "name": "BARK",
+            "symbol": "BARK",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/bark.png"
         }
     ],
-    "timestamp": "2023-10-02T12:33:00+00:00"
+    "timestamp": "2023-10-08T12:33:00+00:00"
 
 }
