@@ -43,7 +43,7 @@
     },
     "version": {
         "major": 1,
-        "minor": 28,
+        "minor": 29,
         "patch": 0
     },
     "tokens": [
@@ -408,8 +408,16 @@
             "name": "BARK",
             "symbol": "BARK",
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/bark.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x65218A41Fb92637254B4f8c97448d3dF343A3064",
+            "decimals": 18,
+            "name": "DOGE KILLER",
+            "symbol": "LEASH",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/leash.png"
         }
     ],
-    "timestamp": "2023-10-08T12:33:00+00:00"
+    "timestamp": "2023-10-15T12:33:00+00:00"
 
 }
