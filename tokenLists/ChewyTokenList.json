@@ -39,11 +39,15 @@
         "partner": {
             "name": "Partner",
             "description": "Partner Project Tokens"
+        },
+        "meme": {
+            "name": "Memecoin",
+            "description": "Memecoin Token"
         }
     },
     "version": {
         "major": 1,
-        "minor": 29,
+        "minor": 30,
         "patch": 0
     },
     "tokens": [
@@ -399,7 +403,10 @@
             "decimals": 18,
             "name": "Shiba Inu",
             "symbol": "SHIB",
-            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/shib.png"
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/shib.png",
+            "tags": [
+                "Safu"
+            ]
         },
         {
             "chainId": 109,
@@ -416,8 +423,19 @@
             "name": "DOGE KILLER",
             "symbol": "LEASH",
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/leash.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x5BBDB90dAFc39ac324148075cc73A02355Ccf3C0",
+            "decimals": 18,
+            "name": "BONES Token",
+            "symbol": "Bones",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/bones.png",
+            "tags": [
+                "meme"
+            ]
         }
     ],
-    "timestamp": "2023-10-15T12:33:00+00:00"
+    "timestamp": "2023-10-20T12:33:00+00:00"
 
 }
