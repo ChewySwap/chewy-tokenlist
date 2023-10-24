@@ -43,7 +43,7 @@
         "locap": {
             "name": "LoCap",
             "description": "Low market cap token may have high price impact"
-        }
+        },
         "meme": {
             "name": "Memecoin",
             "description": "Memecoin Token"
