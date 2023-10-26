@@ -51,7 +51,7 @@
     },
     "version": {
         "major": 1,
-        "minor": 34,
+        "minor": 35,
         "patch": 2
     },
     "tokens": [
@@ -458,8 +458,19 @@
             "tags": [
                 "meme"
             ]
+        },
+        {
+            "chainId": 109,
+            "address": "0x33cA1D9305D5bB1cbeba0440C1B0fD5e1f8C81B9",
+            "decimals": 18,
+            "name": "BONEWHALE",
+            "symbol": "BONEWHALE",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/bonewhale.png",
+            "tags": [
+                "meme"
+            ]
         }
     ],
-    "timestamp": "2023-10-23T12:05:00+00:00"
+    "timestamp": "2023-10-25T12:05:00+00:00"
 
 }
