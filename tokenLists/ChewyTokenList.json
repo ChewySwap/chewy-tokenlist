@@ -48,6 +48,10 @@
             "name": "Dividend",
             "description": "Tokens that pay rewards in another token"
         },
+        "bridge": {
+            "name": "Bridged",
+            "description": "Tokens bridged from Ethereum"
+        },
         "meme": {
             "name": "Memecoin",
             "description": "Memecoin Token"
@@ -55,7 +59,7 @@
     },
     "version": {
         "major": 1,
-        "minor": 36,
+        "minor": 37,
         "patch": 2
     },
     "tokens": [
@@ -354,10 +358,7 @@
             "decimals": 18,
             "name": "Wrapped BONE",
             "symbol": "WBONE",
-            "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/wbone.png",
-            "tags": [
-                "safu"
-            ]
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/wbone.png"
         },
         {
             "chainId": 109,
@@ -365,10 +366,7 @@
             "decimals": 9,
             "name": "Pooshi",
             "symbol": "POOSHI",
-            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/pooshi.png",
-            "tags": [
-                "eco"
-            ]
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/pooshi.png"
         },
         {
             "chainId": 109,
@@ -389,7 +387,7 @@
             "symbol": "BONESHI",
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/boneshi.png",
             "tags": [
-                "partner"
+                "meme"
             ]
         },
         {
@@ -411,7 +409,7 @@
             "symbol": "WETH",
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/eth.png",
             "tags": [
-                "Safu"
+                "bridge"
             ]
         },
         {
@@ -422,7 +420,7 @@
             "symbol": "USDT",
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/usdt.png",
             "tags": [
-                "Safu"
+                "bridge"
             ]
         },
         {
@@ -433,7 +431,7 @@
             "symbol": "SHIB",
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/shib.png",
             "tags": [
-                "Safu"
+                "bridge"
             ]
         },
         {
@@ -453,7 +451,10 @@
             "decimals": 18,
             "name": "DOGE KILLER",
             "symbol": "LEASH",
-            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/leash.png"
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/leash.png",
+            "tags": [
+                "bridge"
+            ]
         },
         {
             "chainId": 109,
