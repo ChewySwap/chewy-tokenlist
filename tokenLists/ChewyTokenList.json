@@ -44,6 +44,10 @@
             "name": "LoCap",
             "description": "Low market cap token may have high price impact"
         },
+        "dividend": {
+            "name": "Dividend",
+            "description": "Tokens that pay rewards in another token"
+        },
         "meme": {
             "name": "Memecoin",
             "description": "Memecoin Token"
@@ -51,7 +55,7 @@
     },
     "version": {
         "major": 1,
-        "minor": 35,
+        "minor": 36,
         "patch": 2
     },
     "tokens": [
@@ -438,7 +442,10 @@
             "decimals": 18,
             "name": "BARK",
             "symbol": "BARK",
-            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/bark.png"
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/bark.png",
+            "tags": [
+                "dividend"
+            ]
         },
         {
             "chainId": 109,
@@ -467,10 +474,21 @@
             "symbol": "BONEWHALE",
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/bonewhale.png",
             "tags": [
-                "meme"
+                "dividend"
+            ]
+        },
+        {
+            "chainId": 109,
+            "address": "0x4FC2281639F9441F0Fcb8b6D922038277c4408c1",
+            "decimals": 18,
+            "name": "Bury",
+            "symbol": "BURY",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/bury.png",
+            "tags": [
+                "dividend"
             ]
         }
     ],
-    "timestamp": "2023-10-25T12:05:00+00:00"
+    "timestamp": "2023-10-29T12:00:00+00:00"
 
 }
