@@ -59,7 +59,7 @@
     },
     "version": {
         "major": 1,
-        "minor": 37,
+        "minor": 38,
         "patch": 2
     },
     "tokens": [
@@ -370,17 +370,6 @@
         },
         {
             "chainId": 109,
-            "address": "0x9D3E821ff67Cc010313E6CDBA159d5b6305e9431",
-            "decimals": 9,
-            "name": "EndlessWebWorlds",
-            "symbol": "EWW",
-            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/eww.png",
-            "tags": [
-                "meta"
-            ]
-        },
-        {
-            "chainId": 109,
             "address": "0xd348D4f38f9f6710ae18580B161024D3C115F512",
             "decimals": 9,
             "name": "Boneshi",
@@ -490,6 +479,6 @@
             ]
         }
     ],
-    "timestamp": "2023-10-29T12:00:00+00:00"
+    "timestamp": "2023-11-01T12:00:00+00:00"
 
 }
