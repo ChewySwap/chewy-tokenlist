@@ -59,7 +59,7 @@
     },
     "version": {
         "major": 1,
-        "minor": 38,
+        "minor": 39,
         "patch": 2
     },
     "tokens": [
@@ -477,8 +477,19 @@
             "tags": [
                 "dividend"
             ]
+        },
+        {
+            "chainId": 109,
+            "address": "0xd1509c2Aa2411b993dE76d65523F8Af96F86c943",
+            "decimals": 18,
+            "name": "ShibaPunkz",
+            "symbol": "SPUNK",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/spunkz.png",
+            "tags": [
+                "dividend"
+            ]
         }
     ],
-    "timestamp": "2023-11-01T12:00:00+00:00"
+    "timestamp": "2023-11-11T12:00:00+00:00"
 
 }
