@@ -59,8 +59,8 @@
     },
     "version": {
         "major": 1,
-        "minor": 39,
-        "patch": 3
+        "minor": 40,
+        "patch": 4
     },
     "tokens": [
         {
@@ -488,8 +488,16 @@
             "tags": [
                 "dividend"
             ]
+        },
+        {
+            "chainId": 109,
+            "address": "0xc8Bb134c9592eBAF129c16D09bB71CA7C717c204",
+            "decimals": 18,
+            "name": "ShibTech",
+            "symbol": "ShibTech",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/shibtech.png"
         }
     ],
-    "timestamp": "2023-11-11T12:00:00+00:00"
+    "timestamp": "2023-11-13T12:00:00+00:00"
 
 }
