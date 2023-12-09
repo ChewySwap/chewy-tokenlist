@@ -488,6 +488,14 @@
             "name": "ShibTech",
             "symbol": "ShibTech",
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/shibtech.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x46A7d94e6Ba59e873beB3314671748Cf2DA84B3b",
+            "decimals": 18,
+            "name": "WALK Token",
+            "symbol": "WALK",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/walk.png"
         }
     ],
     "timestamp": "2023-11-13T12:00:00+00:00"
