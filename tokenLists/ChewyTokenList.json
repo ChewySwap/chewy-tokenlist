@@ -59,8 +59,8 @@
     },
     "version": {
         "major": 1,
-        "minor": 40,
-        "patch": 4
+        "minor": 41,
+        "patch": 5
     },
     "tokens": [
         {
@@ -498,6 +498,6 @@
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/walk.png"
         }
     ],
-    "timestamp": "2023-11-13T12:00:00+00:00"
+    "timestamp": "2023-12-09T12:00:00+00:00"
 
 }
