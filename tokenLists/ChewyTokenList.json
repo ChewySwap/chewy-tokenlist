@@ -59,8 +59,8 @@
     },
     "version": {
         "major": 1,
-        "minor": 41,
-        "patch": 5
+        "minor": 42,
+        "patch": 6
     },
     "tokens": [
         {
@@ -439,17 +439,6 @@
         },
         {
             "chainId": 109,
-            "address": "0x5BBDB90dAFc39ac324148075cc73A02355Ccf3C0",
-            "decimals": 18,
-            "name": "BONES Token",
-            "symbol": "Bones",
-            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/bones.png",
-            "tags": [
-                "meme"
-            ]
-        },
-        {
-            "chainId": 109,
             "address": "0x33cA1D9305D5bB1cbeba0440C1B0fD5e1f8C81B9",
             "decimals": 18,
             "name": "BONEWHALE",
@@ -498,6 +487,6 @@
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/walk.png"
         }
     ],
-    "timestamp": "2023-12-09T12:00:00+00:00"
+    "timestamp": "2023-12-11T12:00:00+00:00"
 
 }
