@@ -59,8 +59,8 @@
     },
     "version": {
         "major": 1,
-        "minor": 43,
-        "patch": 7
+        "minor": 44,
+        "patch": 8
     },
     "tokens": [
         {
@@ -493,8 +493,16 @@
             "name": "Unification.com/xfund",
             "symbol": "xFUND",
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/xfund.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x4a54CF403B9c751b7b7177A5335E23f38f692944",
+            "decimals": 18,
+            "name": "BYTE",
+            "symbol": "BYTE",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/byte.png"
         }
     ],
-    "timestamp": "2023-12-12T12:00:00+00:00"
+    "timestamp": "2023-12-12T12:20:00+00:00"
 
 }
