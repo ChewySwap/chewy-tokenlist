@@ -59,8 +59,8 @@
     },
     "version": {
         "major": 1,
-        "minor": 44,
-        "patch": 8
+        "minor": 45,
+        "patch": 9
     },
     "tokens": [
         {
@@ -345,6 +345,17 @@
             ]
         },
         {
+            "chainId": 2000,
+            "address": "0x539Cf28f180382E5f806c8DFd6Bb9c9FA4331c8c",
+            "decimals": 18,
+            "name": "Aubergine",
+            "symbol": "Aubergine",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/aubergine.png",
+            "tags": [
+                "locap"
+            ]
+        },
+        {
             "chainId": 109,
             "address": "0xC76F4c819D820369Fb2d7C1531aB3Bb18e6fE8d8",
             "decimals": 18,
@@ -503,6 +514,6 @@
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/byte.png"
         }
     ],
-    "timestamp": "2023-12-12T12:20:00+00:00"
+    "timestamp": "2023-12-16T12:20:00+00:00"
 
 }
