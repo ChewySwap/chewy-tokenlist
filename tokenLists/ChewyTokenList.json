@@ -59,8 +59,8 @@
     },
     "version": {
         "major": 1,
-        "minor": 45,
-        "patch": 9
+        "minor": 46,
+        "patch": 10
     },
     "tokens": [
         {
@@ -373,17 +373,6 @@
         },
         {
             "chainId": 109,
-            "address": "0xd348D4f38f9f6710ae18580B161024D3C115F512",
-            "decimals": 9,
-            "name": "Boneshi",
-            "symbol": "BONESHI",
-            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/boneshi.png",
-            "tags": [
-                "meme"
-            ]
-        },
-        {
-            "chainId": 109,
             "address": "0x2761723006d3Eb0d90B19B75654DbE543dcd974f",
             "decimals": 18,
             "name": "ChewySwap",
@@ -514,6 +503,6 @@
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/byte.png"
         }
     ],
-    "timestamp": "2023-12-16T12:20:00+00:00"
+    "timestamp": "2024-01-09T12:20:00+00:00"
 
 }
