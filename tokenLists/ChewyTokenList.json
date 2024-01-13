@@ -59,8 +59,8 @@
     },
     "version": {
         "major": 1,
-        "minor": 46,
-        "patch": 10
+        "minor": 47,
+        "patch": 11
     },
     "tokens": [
         {
@@ -133,6 +133,17 @@
             "name": "Wojak Ass Token",
             "symbol": "WAT",
             "logoURI": "https://raw.githubusercontent.com/PooDoge/dogeshrek-tokenlist/main/tokens/wat.png",
+            "tags": [
+                "locap"
+            ]
+        },
+        {
+            "chainId": 2000,
+            "address": "0xf17A4142FF9438b4f2bC09207f7216D5301B6a1E",
+            "decimals": 18,
+            "name": "Molly",
+            "symbol": "Molly",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/strawberry.png",
             "tags": [
                 "locap"
             ]
@@ -503,6 +514,6 @@
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/byte.png"
         }
     ],
-    "timestamp": "2024-01-09T12:20:00+00:00"
+    "timestamp": "2024-01-13T12:20:00+00:00"
 
 }
