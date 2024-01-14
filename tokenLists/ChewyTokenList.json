@@ -59,8 +59,8 @@
     },
     "version": {
         "major": 1,
-        "minor": 47,
-        "patch": 11
+        "minor": 48,
+        "patch": 12
     },
     "tokens": [
         {
@@ -512,8 +512,16 @@
             "name": "BYTE",
             "symbol": "BYTE",
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/byte.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x165E8b1FaEFf503963f113dc81aFc49CeA2bAbA9",
+            "decimals": 18,
+            "name": "Shups Token",
+            "symbol": "SHUPS",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/shups.png"
         }
     ],
-    "timestamp": "2024-01-13T12:20:00+00:00"
+    "timestamp": "2024-01-14T12:20:00+00:00"
 
 }
