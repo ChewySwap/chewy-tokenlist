@@ -59,8 +59,8 @@
     },
     "version": {
         "major": 1,
-        "minor": 48,
-        "patch": 12
+        "minor": 49,
+        "patch": 13
     },
     "tokens": [
         {
@@ -483,10 +483,10 @@
         },
         {
             "chainId": 109,
-            "address": "0xc8Bb134c9592eBAF129c16D09bB71CA7C717c204",
+            "address": "0xA77241231a899b69725F2e2e092cf666286Ced7E",
             "decimals": 18,
-            "name": "ShibTech",
-            "symbol": "ShibTech",
+            "name": "ShibWare",
+            "symbol": "ShibWare",
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/shibtech.png"
         },
         {
@@ -520,8 +520,64 @@
             "name": "Shups Token",
             "symbol": "SHUPS",
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/shups.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0xfe668A3d6f05e7799AAE04659fC274AC00d094c0",
+            "decimals": 18,
+            "name": "Hoichi",
+            "symbol": "Hoichi",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/hoichi.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0xCDbe27aCb4579b1E2ef2F4Efc4c4a6f7E63933b2",
+            "decimals": 9,
+            "name": "Brick by Brick",
+            "symbol": "BRICK",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/brick.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x43AB6e79a0ee99e6cF4eF9e70b4C0c2DF5A4d0Fb",
+            "decimals": 18,
+            "name": "CryptiQ",
+            "symbol": "CryptiQ",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/cryptiq.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x1fA31c850E68dAb3950b728BF1D7a43248dd1283",
+            "decimals": 18,
+            "name": "BULL",
+            "symbol": "BULL",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/shibull.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x7530f1fFA6FBeC35C1f3b2f40f3243a033c99fF3",
+            "decimals": 18,
+            "name": "D-Cent Gamers",
+            "symbol": "BATTLE",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/battle.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x83e11ce585d9272164c2215DdE9d029f0F441f60",
+            "decimals": 18,
+            "name": "Aeon AI",
+            "symbol": "AEON",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/aeon.png"
+        },
+        {
+            "chainId": 109,
+            "address": "0x5212B42ef96A47Af93F3a6c801227b650EDEb12f",
+            "decimals": 18,
+            "name": "Sideshow 404",
+            "symbol": "SKULLZ",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/skullz.gif"
         }
     ],
-    "timestamp": "2024-01-14T12:20:00+00:00"
+    "timestamp": "2024-02-24T12:20:00+00:00"
 
 }
