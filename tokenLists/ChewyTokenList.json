@@ -539,14 +539,6 @@
         },
         {
             "chainId": 109,
-            "address": "0x43AB6e79a0ee99e6cF4eF9e70b4C0c2DF5A4d0Fb",
-            "decimals": 18,
-            "name": "CryptiQ",
-            "symbol": "CryptiQ",
-            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/cryptiq.png"
-        },
-        {
-            "chainId": 109,
             "address": "0x1fA31c850E68dAb3950b728BF1D7a43248dd1283",
             "decimals": 18,
             "name": "BULL",
@@ -576,8 +568,16 @@
             "name": "Sideshow 404",
             "symbol": "SKULLZ",
             "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/skullz.gif"
+        },
+        {
+            "chainId": 109,
+            "address": "0xee70777C4649B7937A86343F5a54718892572859",
+            "decimals": 9,
+            "name": "Shytoshis Coin",
+            "symbol": "Shytoshi",
+            "logoURI": "https://raw.githubusercontent.com/ChewySwap/chewy-tokenlist/main/tokens/shytoshi.png"
         }
     ],
-    "timestamp": "2024-03-01T12:20:00+00:00"
+    "timestamp": "2024-03-08T12:20:00+00:00"
 
 }
