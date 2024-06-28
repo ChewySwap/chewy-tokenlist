@@ -1,6 +1,6 @@
 # ChewySwap Exchange Shibarium Tokenlist
 
-![Chewy the ChewySwap Mascot](https://chewyswap.dog/images/ChewyExchange.png)
+![Chewy the ChewySwap Mascot](https://chewyswap.dog/logo.png)
 
 ChewySwap is the first multi-doggo-chain Decentralized Exchange on both Shibarium and Dogechain. This repository contains the official default token list for the Shibarium side.
 
