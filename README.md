@@ -1,4 +1,4 @@
-# ChewySwap Exchange Shibarium Tokenlist
+# ChewySwap Exchange Tokenlist
 
 ![Chewy the ChewySwap Mascot](https://chewyswap.dog/logo.png)
 
