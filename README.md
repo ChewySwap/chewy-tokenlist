@@ -1,6 +1,6 @@
 # ChewySwap Exchange Tokenlist
 
-![1.00]([blob:https://milkdown.dev/7a00d88e-8877-4e2c-81cd-e1887cd541ae](https://github.com/ChewySwap/chewy-tokenlist/blob/main/chewstick.png?raw=true))
+![1.00](https://github.com/ChewySwap/chewy-tokenlist/blob/main/chewstick.png?raw=true)
 
 ChewySwap is the first multichain Decentralized Exchange with a focus on dog-based memecoin blockchains such as Shiba Inu's Shibarium and the unofficial EVM compatible Dogecoin layer 2 called Dogechain. This repository contains the official default token list
 
